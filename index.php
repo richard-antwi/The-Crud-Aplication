@@ -40,7 +40,7 @@
   overflow: auto;
 }
 
-/* Media query for responsiveness */
+/* Media query for responsivenesss */
 @media (max-width: 768px) {
   .modal-dialog {
     margin: 2em; /* Adjust margins for smaller screens */

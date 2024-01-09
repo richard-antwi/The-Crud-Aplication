@@ -4,7 +4,8 @@ $username = "root";
 $password ="";
 $database ="fhm_data";
 
-          //creating my connection
+
+          //creating my connections
         $connection = new mysqli($servername, $username, $password, $database);
         $name ="";
         $email ="";
